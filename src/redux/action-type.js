@@ -1,0 +1,4 @@
+export const INCREMENT="INCREMENT"
+export const DECREMENT="DECREMENT"
+export const ALERTSHOW="ALERTSHOW"
+export const ALERTHIDE="ALERTHIDE"
